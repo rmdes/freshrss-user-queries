@@ -1,8 +1,8 @@
 {
 	"name": "UserQueries",
 	"author": "rmdes",
-	"description": "API endpoint to list and run saved user queries: /api/misc.php?ext=UserQueries (Google Reader API auth)",
-	"version": "0.1.0",
+	"description": "API endpoint to list, run, create and share saved user queries: /api/misc.php?ext=UserQueries (Google Reader API auth)",
+	"version": "0.2.0",
 	"entrypoint": "UserQueries",
 	"type": "system"
 }
